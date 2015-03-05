@@ -1,3 +1,15 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js
+3 Something extra           - All I see is my code (matrixLEDi2c2.js)
+0 Respond to switch
+5 ReadMe.txt 
+5 Not late
+
+Grade: 18/25
+
+=======================================
+
 To : Prof. Mark A. Yoder
 From : Merlin Sundar
 Date :  16 September, 2015 

@@ -1,3 +1,16 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5
+# Fritzing   2 - Bonus
+# Code       15 - Did the encoder ever work?
+
+
+Grade:  27/25
+
+================================================
+
+
 To : Prof. Mark A. Yoder
 From : Merlin Sundar
 Date :  2 October, 2015 

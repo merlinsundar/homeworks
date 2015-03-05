@@ -1,3 +1,15 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 5
+# Fritzing   5
+# Code       5  - Modified, but add your name to it.
+# Table      5 - See assignment
+
+Grade:  25/25
+
+===========================================
+
 To : Prof. Mark A. Yoder
 From : Merlin Sundar
 Date :  24 September, 2015 
