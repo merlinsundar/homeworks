@@ -14,11 +14,4 @@ Codes were available on cloud9 interface and then copied unto the git hub reposi
 5. blink_alternate.js - On Pressing one switch LED starts blinking while pressing another switch stops the LED from blinking.
 
 
-From the command line- 
-
-We were able to fire up leds, change their color and see the folders withing sys/class etc all from command line after connecting the beaglebone to the computer.
-
-Also downloaded the Fritzing software and learned to fiddle with its ADAfruit feature to customize the beagebone features.
-
-
 

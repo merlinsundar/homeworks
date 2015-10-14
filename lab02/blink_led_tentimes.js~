@@ -1,0 +1,25 @@
+
+var b = require('bonescript');
+var i;
+var state = 0;
+
+b.pinMode('P9_42', b.INPUT);
+b.pinMode('P9_12', b.OUTPUT);
+
+setInterval(check,100);
+
+function check(){
+b.digitalRead('P9_42', LED10);
+}
+
+
+function LED10(x) { //checks for input ten times
+  if(x.value === 1){
+    for(i=0;i<10;i++) {
+	if(state === 0) state = 1;
+	else state = 0;
+    	b.digitalWrite('P9_11', state);
+    }
+  }
+}
+
