@@ -10,5 +10,3 @@ Range_sensor.js - We coded the sensor to find the distance of a notebook from it
 By taking into account that speed of sound is 343m/s
 We calculated the distance using the formula for distance : Time *speed = distance
 
-The recorded distances for the sensor is in file range.pdf
-
