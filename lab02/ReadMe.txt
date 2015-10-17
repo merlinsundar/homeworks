@@ -1,4 +1,19 @@
-To : Prof. Mark A. Yoder
+# Comments from Mark A. Yoder
+
+5 blinkled.js
+5 input.js
+5 some variation
+5 ReadMe.txt
+5 Not late
++2 Fritzing
+
+Grade:  27/25
+
+Well done!
+
+========================================
+
+ : Prof. Mark A. Yoder
 From : Merlin Sundar
 Date : Aug 20, 2015 
 Subject : To Read and flash leds using button/switch by javascript code
